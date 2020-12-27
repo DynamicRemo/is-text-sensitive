@@ -1,0 +1,19 @@
+{
+  "name": "is-text-sensitive",
+  "version": "1.0.0",
+  "description": "Detect if Text is Sensitive (contains explicit words).",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dynamic Remo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DynamicRemo/is-text-sensitive.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
