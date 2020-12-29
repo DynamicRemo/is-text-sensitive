@@ -1,6 +1,6 @@
 {
   "name": "is-text-sensitive",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Detect if Text is Sensitive (contains explicit words).",
   "main": "lib/index.js",
   "types": "lib",
